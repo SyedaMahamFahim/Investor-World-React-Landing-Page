@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+:root{
+    --white-color:whitesmoke;
+    --light-pink:#FF636E;
+}
+a{
+    text-decoration: none;
+    transition: all 0.3s ease,
+}
+a:hover{
+    color: #FF636E;
+}

@@ -1,0 +1,22 @@
+{
+    "short_name": "Xnitia",
+    "name": "Digital Marketing Landing Page PWA",
+    "description":"It is a digital marketing landing page designed by Syeda Maham Fahim",
+    "icons": [
+        {
+            "src": "/images/logo-192x-192",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/images/logo-512x-512",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "scope":"/",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#FF636E",
+    "background_color": "#ffffff"
+}
