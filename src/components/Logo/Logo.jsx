@@ -13,7 +13,7 @@ const Logo = () => {
     return (
         <>
             <Typography variant='h2' className={classes.logo}  >
-                U-Tech
+              PWA
             </Typography></>
     )
 }
